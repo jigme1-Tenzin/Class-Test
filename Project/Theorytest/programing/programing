@@ -1,0 +1,2 @@
+A loop in is a function which allows the code excute again and again.Ex-void loop() {for (int angle = 0; angle <= 180; angle++) {servoMotor.write(angle); 
+Functions are blocks of reusable code that usually perform a single action. 

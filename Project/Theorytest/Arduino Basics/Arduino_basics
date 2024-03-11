@@ -1,0 +1,3 @@
+Microcontroler is the primary circuit which allows us to program the Arduino in order for it to be able to execute commands. Digital Input/output pins, USB Interface and Connector, Analog Pins, Reset Button, LED's, and Voltage Regulator. 
+loop allows us to run the code repeatedly where as the setup function allows us to set up the input and output pin.
+An analog signal can take on any number of values. A digital signal on the other hand, has only two values: HIGH and LOW. 
