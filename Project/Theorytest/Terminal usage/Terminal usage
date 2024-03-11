@@ -1,0 +1,4 @@
+The command we use to list all files and directories in current directory is 'ls'.
+The purpose of cd command in terminal is to change the directory.
+The differences between ll and ls is that ls shows all the files and directory and ll shows all the hidden file and directory.
+Done.
